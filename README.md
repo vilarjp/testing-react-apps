@@ -62,7 +62,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```
-git clone https://github.com/kentcdodds/testing-react-apps.git
+git clone https://github.com/vilarjp/testing-react-apps
 cd testing-react-apps
 node setup
 ```
